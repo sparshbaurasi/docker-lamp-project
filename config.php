@@ -12,7 +12,7 @@
 	// }
 
 
-	$connect = mysqli_connect(
+	$conn = mysqli_connect(
 		'db',
 		'banker',
 		'password',
